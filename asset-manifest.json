@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/upfirst_challenge/static/css/main.ba246a13.css",
+    "main.js": "/upfirst_challenge/static/js/main.0cb6a7d4.js",
+    "static/js/453.81cd4e38.chunk.js": "/upfirst_challenge/static/js/453.81cd4e38.chunk.js",
+    "index.html": "/upfirst_challenge/index.html",
+    "main.ba246a13.css.map": "/upfirst_challenge/static/css/main.ba246a13.css.map",
+    "main.0cb6a7d4.js.map": "/upfirst_challenge/static/js/main.0cb6a7d4.js.map",
+    "453.81cd4e38.chunk.js.map": "/upfirst_challenge/static/js/453.81cd4e38.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ba246a13.css",
+    "static/js/main.0cb6a7d4.js"
+  ]
+}
