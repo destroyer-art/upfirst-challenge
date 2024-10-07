@@ -11,3 +11,20 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Customize the scrollbar */
+.scrollbar::-webkit-scrollbar {
+  width: 8px; /* Width of the scrollbar */
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background-color: #A0AEC0; /* Gray color */
+  border-radius: 10px; /* Rounded corners for the scrollbar */
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  background: #EDF2F7; /* Lighter background for the track */
+}
